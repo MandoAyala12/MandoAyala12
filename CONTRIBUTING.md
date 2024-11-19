@@ -1,0 +1,1 @@
+This contributing file states that many other contributors can add content
